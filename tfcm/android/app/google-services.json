@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802205455678",
+    "project_id": "tfcm-e2830",
+    "storage_bucket": "tfcm-e2830.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802205455678:android:d060cc7f4f85ab31a6486f",
+        "android_client_info": {
+          "package_name": "com.example.tfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRq5zK4Zuk492zEdMPIE1_mRhpRjWNgHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
